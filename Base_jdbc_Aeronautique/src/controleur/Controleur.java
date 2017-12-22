@@ -11,7 +11,7 @@ public class Controleur {
 	// TODO Vous pouvez compléter ces enchainements de menu avec les deux autres tables.
 	// Liste des constantes privées permettant d'enchainer les menus.
 	// Menu principal
-	private static final int MENU_AJOUT_VOL=0;
+	//private static final int MENU_AJOUT_VOL=0;
 	private static final int MENU_SUPPR_VOL=3;
 	private static final int MENU_PRINCIPAL=6;
 	private static final int MENU_AJOUT_VRAIMENT_VOL = 7;
